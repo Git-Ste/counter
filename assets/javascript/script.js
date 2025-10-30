@@ -63,7 +63,7 @@ const saveBtn = document.createElement("button");
 resetBtn.classList.add("btn", "reset-btn")
 saveBtn.classList.add("btn", "save-btn")
 resetBtn.textContent = "Reset"
-saveBtn.textContent = "Salva Punteggio"
+saveBtn.textContent = "Save"
 counterContainer.appendChild(resetBtn)
 counterContainer.appendChild(saveBtn)
 
@@ -136,6 +136,7 @@ function elimination(event){
     }}   
 
     
+
 
 
 
