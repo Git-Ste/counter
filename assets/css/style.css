@@ -80,7 +80,7 @@ body{
 }
 
 .increment-btn{
-    background-color: #e05e18ff;
+    background-color: #1e1c18;
     border: none;
     font-weight: 600;
     font-size: 48px;
@@ -165,3 +165,4 @@ body{
     border-radius: 4px;
     color: #f2efe8;
 }
+
