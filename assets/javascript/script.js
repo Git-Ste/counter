@@ -1,4 +1,3 @@
-console.log("ciao mondo")
 /*contenitore generale del counter*/
 const container = document.createElement("div");
 container.classList.add("general-container")
@@ -136,6 +135,7 @@ function elimination(event){
     }}   
 
     
+
 
 
 
