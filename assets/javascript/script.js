@@ -99,7 +99,8 @@ saveBtn.addEventListener("click", function(){
     if(saveLimit === 5){ //salva massimo 5 punteggi
         alert("Il massimo di punteggi che puoi salvare è 5")
     }else{
-        saveLimit++;
+        container.style.marginTop = "64px";
+        saveLimit++; 
         //creazione item
         const saveItem = document.createElement("li");
         saveItem.classList.add("save-item")
@@ -135,6 +136,7 @@ function elimination(event){
     }}   
 
     
+
 
 
 
