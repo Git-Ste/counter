@@ -32,7 +32,6 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 64px;
 }
 
 @media screen and (min-width: 560px){
@@ -165,4 +164,5 @@ body{
     border-radius: 4px;
     color: #f2efe8;
 }
+
 
