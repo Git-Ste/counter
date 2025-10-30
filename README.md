@@ -3,10 +3,10 @@
 
 ## Scopri il progetto:
 ### Come funziona il Counter?
-<p>Il progetto realizzato è un semplice counter che permette di incrementare e decrementare un valore, con alcune clausole:
+<p>Il progetto è un semplice counter che puó essere incrementato e decrementato attraverso gli appositi pulsanti "+" e "-", con alcuni vincoli:
 <ul>
-  <li>Il counter raggiunge un massiomo di 1.000.000. Se l'utente prova ad incrementare ulteriormente il counter un alert lo avvisa dell'impossibilità di farlo.</li>
-  <li>Il counter non assume valori negativi. Il valore di default è 0 e se l'utente prova a decrementarlo un alert lo avvisa dell'impossibilità di farlo.</li>
+  <li>il counter raggiunge un massiomo di 1.000.000. Se l'utente prova ad incrementare ulteriormente il counter un alert lo avvisa dell'impossibilità di farlo.</li>
+  <li>il counter non assume valori negativi. Il valore di default è 0 e se l'utente prova a decrementarlo un alert lo avvisa dell'impossibilità di farlo.</li>
 </ul>
 
 Ho aggiunto 2 funzionalità oltre all'incremento:
