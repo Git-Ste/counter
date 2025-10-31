@@ -17,9 +17,9 @@ Ho aggiunto 2 funzionalità oltre all'incremento:
 </p>
 
 ### Linguaggi usati:
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) - CSS 35.9%
 <br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) - JavaScript 60.1%
 <br>
   Come da richiesta del progetto per la creazione degli elementi non ho utilizzato HTML, ma ho manipolato il DOM attraverso Javascript
 
